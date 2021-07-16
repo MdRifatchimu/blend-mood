@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.one {
+  background-image: url(images/1.jpeg);
+  background-color: rgb(208, 226, 43);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: darken;
+  height: 100em;
+  width: 100em;
+}
+.two {
+  background-image: url(images/2.jpg);
+  background-color: blueviolet;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: lighten;
+  height: 100em;
+  width: 100em;
+}
+.three {
+  background-image: url(images/1.jpeg);
+  background-color: rgb(208, 226, 43);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: luminosity;
+  height: 100em;
+  width: 100em;
+}
+.four {
+  background-image: url(images/2.jpg);
+  background-color: rgba(1, 29, 5, 0.904);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: overlay;
+  height: 100em;
+  width: 100em;
+}
+.five {
+  background-image: url(images/1.jpeg);
+  background-color: rgb(208, 226, 43);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: saturation;
+  height: 100em;
+  width: 100em;
+}
+.six {
+  background-image: url(images/2.jpg);
+  background-color: rgb(226, 110, 43);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: screen;
+  height: 100em;
+  width: 100em;
+}
